@@ -1,6 +1,6 @@
 # 👩🏾‍💻 semana1-GitEGithub 
 
-<h1 align="center"> 
+
 ## O que é algoritmo? 🧐
 
 
